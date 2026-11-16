@@ -8,7 +8,7 @@ Shorten the provided text. Limit changes to minimum while preserving meaning.
 
 > GenAIScript is a JavaScript/TypeScript library and environment to build productive script using LLMs.
 
-## Markdown Documentation
+## Markdown Documentation 
 All pages of the documentation have a markdown route by adding '.md' to the URL.
 For example, the markdown for https://microsoft.github.io/genaiscript/reference/scripts 
 is at https://microsoft.github.io/genaiscript/reference/scripts.md
