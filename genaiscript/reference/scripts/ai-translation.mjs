@@ -1,0 +1,1 @@
+ const langs = ["French", "German", ...] for(const lang of langs) { // run script and create translations await $`genaiscript run translate ... --vars lang=${lang} ... --apply-edits` // run MakeCode compiler to validate translations await $`makecode check-docs ...` // upload the database await $`translation upload
