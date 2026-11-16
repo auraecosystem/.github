@@ -1,4 +1,3 @@
-
 > <¡>This page is a tutorial on creating prompt with GenAIScript. It is designed to be opened in Visual Studio Code as a Notebook.<¡>
 
 :::
