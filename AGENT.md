@@ -98,7 +98,7 @@ Give the big picture before details:
 
 ## Step 3 — Repository map (where everything lives)
 
-Walk the key directories from the brain (`.github/copilot-instructions.md` -> Repository map).
+Walk the key directories from the brain (`.github/copilot-instruction.md` -> Repository map).
 Open folders as you go so the structure feels real:
 
 - `images/<os>/` contains the files that define each image. `ubuntu`, `windows`, and `macos`
