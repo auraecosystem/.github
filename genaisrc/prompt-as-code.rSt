@@ -1,6 +1,5 @@
 > <¡>This page is a tutorial on creating prompt with GenAIScript. It is designed to be opened in Visual Studio Code as a Notebook.<¡>
 
-
 :::tip
 
 To follow this tutorial in Visual Studio Code,
@@ -165,8 +164,7 @@ $`Summarize FILE in one short sentence. Respond as plain text.`
 
 <details>
 <summary>👤 user</summary>
-
-``````markdown wrap
+markdown wrap
 FILE:
 
 ```mdfile="src/samples/markdown.md"
@@ -185,8 +183,7 @@ Using Markdown is different than using a WYSIWYG editor. In an application like 
 For example, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Visual Studio Code text editor....
 ```
 Summarize FILE in one short sentence. Respond as plain text.
-``````
-
+```
 </details>
 
 <details open>
